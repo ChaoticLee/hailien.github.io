@@ -1,0 +1,20 @@
+@font-face{
+    font-family:'tropi';
+    src: url('../fonts/Tropi Land - (Demo) hanscostudio.com.ttf') format('ttf');
+}
+* { 
+    text-align: center; 
+}
+
+h1 {
+    font-family: tropi; 
+}
+
+.nav{
+    display: inline-block;
+    font-size: 14px; 
+    padding: 20px;
+}
+#about_me {
+    font-family: Roboto; 
+}
